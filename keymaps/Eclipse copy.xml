@@ -1,0 +1,14 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="ClassNameCompletion" />
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="HippieCompletion" />
+</keymap>
