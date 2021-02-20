@@ -18,6 +18,10 @@
           <option name="url" value="http://10.108.17.5:10018/cloud/iot/longqiao-edge.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.108.17.5:10018/cloud/iot/longqiao-cloud.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\repos\AnjiGit\cloud\iot" />
